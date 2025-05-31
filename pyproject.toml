@@ -7,4 +7,5 @@ dependencies = []
 [dependency-groups]
 dev = [
     "ipykernel>=6.29.5",
+    "kaggle>=1.7.4.5",
 ]
